@@ -1,4 +1,4 @@
-import 'package:bag_yo/screen/login_signup.dart';
+import 'package:bag_yo/view/screen/login_signup.dart';
 import 'package:flutter/material.dart';
 
 void main() {

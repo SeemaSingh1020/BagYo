@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import '../config/palette.dart';
+import '../../model/config/palette.dart';
 
 class OtpScreen extends StatefulWidget {
   const OtpScreen({super.key});
